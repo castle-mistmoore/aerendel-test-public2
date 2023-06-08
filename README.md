@@ -4,3 +4,5 @@ You have entered Castle Mistmoore.
 
 mistmoore01
 mistmoore02
+freeport01
+freeport02
