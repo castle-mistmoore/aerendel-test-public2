@@ -6,3 +6,6 @@ mistmoore01
 mistmoore02
 freeport01
 freeport02
+queynos01
+queynos02
+queynos99
